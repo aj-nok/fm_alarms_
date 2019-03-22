@@ -1,1 +1,1 @@
-<img width="500" height="500" src="images/Linear_regression.PNG">
+<img width="500" height="500" src="images/alarm_type_scatter.png">
