@@ -14,4 +14,6 @@
 
 <img width="1200" height="400" src="images/event_time_vs_consec.png">
 
+<img width="1200" height="400" src="images/alarm_time_vs_consec_nbr.png">
+
 
